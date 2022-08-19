@@ -21,9 +21,9 @@ To get a local copy up and running follow these simple example steps.
 Clone the repository and change the directory to Custom-Enumerable
 
 ``` 
-  $ git clone git@github.com:Felix45/Custom-Enumerable.git
+  $ git clone git@github.com:NabilHY/enumerable.git
 
-  $ cd Custom-Enumerable
+  $ cd enamurable
 
 ```
 
@@ -37,7 +37,7 @@ Install all project dependencies by running the command below
 
 ### Run the application
 ```
-  $ ruby challenge.rb
+  $ ruby enamurable.rb
 ```
 ### Check linter errors
 Start the webpack dev server
