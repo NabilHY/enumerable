@@ -3,11 +3,47 @@
 # Enumerable
 
 
-
-
 ## Built With
 
 - Ruby
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+```
+  Ruby 
+
+```
+### Setup
+Clone the repository and change the directory to Custom-Enumerable
+
+``` 
+  $ git clone git@github.com:Felix45/Custom-Enumerable.git
+
+  $ cd Custom-Enumerable
+
+```
+
+### Install
+Install all project dependencies by running the command below
+ 
+``` 
+  $ git --version
+  $ ruby --version && irb
+```
+
+### Run the application
+```
+  $ ruby challenge.rb
+```
+### Check linter errors
+Start the webpack dev server
+``` 
+  $ rubocop --autocorrect
+```
 
 
 ## Authors
